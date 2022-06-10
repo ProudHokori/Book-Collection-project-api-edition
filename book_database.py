@@ -98,7 +98,6 @@ if __name__ == '__main__':
     bookdb = BookDatabase('keys.json',
                           'My book collection',
                           'Sheet3')
-    # bookdb.update_sheet(worksheet="Sheet3")
     # book = Book(bookdb, "ทาสรักบรรดาศักดิ์", "Danshaku no Aijin", "Takenaka Sei",
     #             "CN", "978-4-7997-3116-1", "once story", "4.7", "read", "shelved")
     # print(bookdb.bookdf.iloc[bookdb.bookdf.index[bookdb.bookdf['ISBN'] == '978-4-4036-6390-1']])

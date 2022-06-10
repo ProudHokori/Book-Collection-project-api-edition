@@ -42,6 +42,7 @@ if __name__ == '__main__':
     worksheet = 'Sheet1'
     bookdb = BookDatabase(service_file, spreadsheet, worksheet)
 
+
     # test add book to sheet
     book = Book(bookdb, "ทาสรักบรรดาศักดิ์", "Danshaku no Aijin", "Takenaka Sei",
                 "CN", "978-4-7997-3116-1", "once story", "4.7", "read", "shelved")

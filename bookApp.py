@@ -11,4 +11,3 @@ except Exception:
                          "Please connect the internet "
                          "to use the application")
 
-

@@ -1255,3 +1255,4 @@ class AboutAppPage(Page):
 if __name__ == '__main__':
     app = BookApp()
     app.run()
+
