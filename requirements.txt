@@ -1,0 +1,5 @@
+pandastable
+pandas
+matplotlib
+seaborn
+pygsheets
